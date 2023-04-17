@@ -13,11 +13,11 @@
 > Exemplo do body:
 > ~~~json
 > {
->    "name": "Costumer",
->    "email": "costumer@gmail.com",
+>    "name": "Customer",
+>    "email": "customer@gmail.com",
 >    "address": [
 >        {
->            "street": "Rua costumer",
+>            "street": "Rua customer",
 >            "cep": "1234567"
 >        }
 >    ]
@@ -31,11 +31,11 @@
 > Exemplo do body:
 > ~~~json
 > {
->    "name": "Costumer",
->    "email": "costumer@gmail.com",
+>    "name": "Customer",
+>    "email": "customer@gmail.com",
 >    "address": [
 >        {
->            "street": "Rua costumer",
+>            "street": "Rua customer",
 >            "cep": "1234567"
 >        }
 >    ]
