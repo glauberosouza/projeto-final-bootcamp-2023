@@ -8,7 +8,7 @@
 > - IntelliJ IDEA
 > - Postman
 
-> Para cadastrar um cliente envie um POST para: localhost:8080/clients
+> Para cadastrar um cliente envie um POST para: localhost:8080/customers
 
 > Exemplo do body:
 > ~~~json
@@ -24,9 +24,9 @@
 >}
 > ~~~
 
->Para listar todos os clientes envie um GET para: localhost:8080/clients
+>Para listar todos os clientes envie um GET para: localhost:8080/customers
 
->Para atualizar um cliente envie um PUT para:localhost:8080/clients/{id}
+>Para atualizar um cliente envie um PUT para:localhost:8080/customers/{id}
 
 > Exemplo do body:
 > ~~~json
@@ -42,7 +42,7 @@
 >}
 > ~~~
 
->Para deletar um cliente envie um DELETE para: localhost:8080/clients/{id}
+>Para deletar um cliente envie um DELETE para: localhost:8080/customers/{id}
 
 > Para acessar o H2 use o link: localhost:8080/h2-console/
 > 
